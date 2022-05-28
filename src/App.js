@@ -70,7 +70,7 @@ function App() {
     <div className="page">
       <div className="pageContainer">
         <h1>IMC Calculator</h1>
-        <h2>Para calcular o IMC, basta preencher os campos abaixo:</h2>
+        <h2>Para calcular o IMC, basta preencher os campos abaixo: </h2>
         <form>
           <label>
             <input
